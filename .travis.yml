@@ -8,8 +8,7 @@ cache:
     - $HOME/.m2
 
 # https://docs.travis-ci.com/user/database-setup/#PostgreSQL
-before_script:
-  - psql -c 'create user "esrd_user"; grant all privileges on database postgres to "esrd_user"' -U postgres
+
 
 # https://docs.travis-ci.com/user/notifications#Configuring-email-notifications
 notifications:
