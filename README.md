@@ -1,4 +1,3 @@
-[![Dependency Status](https://dependencyci.com/github/StanislavMakhrov/lunchVote/badge)](https://dependencyci.com/github/StanislavMakhrov/lunchVote)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e61c4355be44a0ea4f15da95ccb7abb)](https://www.codacy.com/app/StanislavMakhrov/lunchVote?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=StanislavMakhrov/lunchVote&amp;utm_campaign=Badge_Grade)
 [![Build Status](https://travis-ci.org/StanislavMakhrov/lunchVote.svg?branch=master)](https://travis-ci.org/StanislavMakhrov/lunchVote)
 
