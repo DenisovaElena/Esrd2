@@ -18,7 +18,7 @@
 ![image](01.png)
 
 ### Ввод данных
-![image](02.png)
+![image](02_.png)
 
 ### Формирование документа в PDF + Json
 ![image](03.png)
