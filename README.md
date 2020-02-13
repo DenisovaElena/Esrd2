@@ -22,4 +22,4 @@
 ![image](02.png)
 
 ### Демонстрация работы
-https://youtu.be/MErZ8zD_WYQ
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/MErZ8zD_WYQ/0.jpg)](https://www.youtube.com/watch?v=MErZ8zD_WYQ)
