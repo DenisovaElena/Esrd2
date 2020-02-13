@@ -1,5 +1,5 @@
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/9e61c4355be44a0ea4f15da95ccb7abb)](https://www.codacy.com/app/StanislavMakhrov/lunchVote?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=StanislavMakhrov/lunchVote&amp;utm_campaign=Badge_Grade)
-[![Build Status](https://travis-ci.org/StanislavMakhrov/lunchVote.svg?branch=master)](https://travis-ci.org/StanislavMakhrov/lunchVote)
+[![Build Status](https://travis-ci.org/SMakhrov/Esrd2.svg?branch=master)](https://travis-ci.org/SMakhrov/Esrd2)
 
 ## Система документооборота ИАС "Тариф"
 Система разработана как универсальное решение для автоматизации подготовки документов с возможностью дальнейшей передачи цифровых данных во внешние сервисы. В данной версии устанановлено наполнение для профиля тарифного регулирования.
